@@ -24,7 +24,7 @@ API: CoinGecko API
 Hosting: Render (backend), Netlify (frontend)
 Setup
 
-Clone repo: git clone https://github.com/TafScript/Capstone-Project.git
+Clone repo: git clone https://github.com/kameshsuresh/Capstone-Project.git
 Backend:
 cd backend
 npm install
